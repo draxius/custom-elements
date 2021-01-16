@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/draxius/custom-elements/master/draxius-core/3e-parity-source/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/draxius/custom-elements/main/draxius-core/3e-parity-source/source.xml" />
 		</update>
 	</info>
 	<element name="3E Parity Source" type="Source" source="Core" id="ID_DRAX_SOURCE_CORE_3EPS">

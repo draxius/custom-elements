@@ -5,10 +5,10 @@
 		<description>All content on the repository - this is a "metasource" for including the other index files.</description>
 		<author url="http://www.draxius.com">Draxius</author>
 		<update version="0.0.1">
-			<file name="draxius-all.index" url="https://raw.githubusercontent.com/draxius/custom-elements/master/draxius-all.index" />
+			<file name="draxius-all.index" url="https://raw.githubusercontent.com/draxius/custom-elements/main/draxius-all.index" />
 		</update>
 	</info>
 	<files>
-		<file name="draxius-core.index" url="https://raw.githubusercontent.com/draxius/custom-elements/master/draxius-core.index" />
+		<file name="draxius-core.index" url="https://raw.githubusercontent.com/draxius/custom-elements/main/draxius-core.index" />
 	</files>
 </index>

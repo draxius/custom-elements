@@ -5,10 +5,10 @@
 		<description>Core content that everything else in the respository assumes is present</description>
 		<author url="http://www.draxius.com">Draxius</author>
 		<update version="0.0.1">
-			<file name="draxius-core.index" url="https://raw.githubusercontent.com/draxius/custom-elements/master/draxius-core.index" />
+			<file name="draxius-core.index" url="https://raw.githubusercontent.com/draxius/custom-elements/main/draxius-core.index" />
 		</update>
 	</info>
 	<files>
-		<file name="3e-parity-source.index" url="https://raw.githubusercontent.com/draxius/custom-elements/master/draxius-core/3e-parity-source.index" />
+		<file name="3e-parity-source.index" url="https://raw.githubusercontent.com/draxius/custom-elements/main/draxius-core/3e-parity-source.index" />
 	</files>
 </index>
