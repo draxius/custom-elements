@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>3E Parity Source</name>
+		<description>Establishes common items from 3.0/3.5 that are absent in the latest edition. Examples include the remaining stat items like Gloves of Dexterity and Periapt of Wisdom.</description>
+		<author url="http://www.draxius.com">Draxius</author>
+		<update version="0.0.1">
+			<file name="3e-parity-source.index" url="https://raw.githubusercontent.com/draxius/custom-elements/master/draxius-core/3e-parity-source.index" />
+		</update>
+	</info>
+	<files>
+		<file name="items-wondrous.xml" url="https://raw.githubusercontent.com/draxius/custom-elements/master/draxius-core/3e-parity-source/items/items-wondrous.xml" />
+	</files>
+</index>

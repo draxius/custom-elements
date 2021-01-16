@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<update version="0.1">
+			<file name="source.xml" url="https://raw.githubusercontent.com/draxius/custom-elements/master/draxius-core/3e-parity-source/source.xml" />
+		</update>
+	</info>
+	<element name="3E Parity Source" type="Source" source="Core" id="ID_DRAX_SOURCE_CORE_3EPS">
+		<description>
+			<p><strong><em>Parity items for 3rd Edition (3.0/3.5)</em></strong></p>
+			<p>Establishes common items from 3.0/3.5 that are absent in the latest edition. Examples include the remaining stat items like Gloves of Dexterity and Periapt of Wisdom.</p>
+		</description>
+		<setters>
+			<set name="abbreviation">3EPS</set>
+			<set name="url">https://www.draxius.com/</set>
+			<set name="author" abbreviation="DRAX">Draxius</set>
+			<set name="homebrew">true</set>
+			<set name="incomplete">true</set>
+		</setters>
+	</element>
+</elements>
