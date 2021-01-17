@@ -57,7 +57,7 @@
 			<set name="rarity">Rare</set>
 		</setters>
 		<rules>
-			<stat name="wscore:set" value="19" bonus="base" />
+			<stat name="wisdom:score:set" value="19" bonus="base" />
 		</rules>
 	</element>
 	
