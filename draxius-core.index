@@ -4,7 +4,7 @@
 		<name>Draxius Core</name>
 		<description>Core content that everything else in the respository assumes is present</description>
 		<author url="http://www.draxius.com">Draxius</author>
-		<update version="0.0.1">
+		<update version="0.0.2">
 			<file name="draxius-core.index" url="https://raw.githubusercontent.com/draxius/custom-elements/main/draxius-core.index" />
 		</update>
 	</info>
